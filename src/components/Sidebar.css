@@ -1,0 +1,50 @@
+
+.loan-reports-sidebar {
+    width: 250px;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    padding-top: 40px;
+    padding-left: 20px;
+  }
+  
+  .loan-reports-sidebar a {
+    padding: 15px;
+    text-decoration: none;
+    color: black;
+  }
+  
+  .loan-reports-sidebar a:hover {
+    background: #08c1d7;
+  }
+  .loan-reports-sidebar a:hover i {
+    color: white;
+}
+  .loan-reports-custom-bg {
+    color: black;
+  }
+  
+  .loan-reports-sidebar a {
+    padding: 15px;
+    text-decoration: none;
+    color: black;
+    display: flex;
+    align-items: center;
+}
+
+.loan-reports-sidebar i {
+    color: #08c1d7;
+    margin-right: 10px;
+}
+
+.loan-reports-sidebar a:hover {
+    background: #08c1d7;
+    color: white; 
+}
+
+.loan-reports-sidebar a:hover i {
+    color: white;
+}
